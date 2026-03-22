@@ -1,5 +1,5 @@
 # Logger go
-Utility for the management of logger in your golang app.
+Utility for management of logger on your golang app.
 
 # Use Case:
 ```go
@@ -17,7 +17,7 @@ func main(){
 }
 ```
 
-You going to have something like: 
+You will have something like this: 
 
 ```bash
 [2026-03-22 10:30:00] [DEBUG] Variable x = 42
